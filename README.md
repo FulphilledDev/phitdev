@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Philip Simpson</h1>
-<h3 align="center">A passionate full-stack developer from San Jose, CA</h3>
+<h3 align="center">A passionate full-stack developer from Las Vegas, NV</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
-- 📫 How to reach me **dev.phits@gmail.com**
+- 📫 How to reach me: **dev.phits@gmail.com**
 
-- ⚡ Fun fact **I was a professional golfer**
+- ⚡ Fun fact: **I was a professional golfer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
