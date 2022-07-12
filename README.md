@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Philip Simpson</h1>
 <h3 align="center">A passionate full-stack developer from San Jose, CA</h3>
 
-<p align="left"> <a href="https://twitter.com/phit_dev" target="blank"><img src="https://img.shields.io/twitter/follow/phit_dev?logo=twitter&style=for-the-badge" alt="phit_dev" /></a> </p>
-
 - 🌱 I’m currently learning **Solidity**
 
 - 📫 How to reach me **dev.phits@gmail.com**
