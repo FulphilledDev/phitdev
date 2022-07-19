@@ -39,7 +39,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
 </a>
 <a href="https://bustin-burgers.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=wordpress&logo-color=white" />
+  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blue&style=plastic&logo=html&logo-color=white" />
 </a>
     </p>
       <p><strong>HTML5, CSS3, & Javascript - </strong> - With over 12 different bustin' options, Find a burger that fits your appetite with ease!</p>
