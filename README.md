@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/rAlWMRj.png" width="100%">
 
-<h1 align="center">Hi 👋, I'm Philip Simpson</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate full-stack developer from Las Vegas, NV</
 h3>
 <br />
