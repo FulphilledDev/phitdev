@@ -44,9 +44,8 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
     </p>
       <p><strong>HTML5, CSS3, & Javascript - </strong> - With over 12 different bustin' options, Find a burger that fits your appetite with ease!</p>
    </td>
- 
-
-
+    </tr>
+    <tr>
     <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
       <br />
