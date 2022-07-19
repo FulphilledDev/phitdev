@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/rAlWMRj.png" width="100%">
+
 <h1 align="center">Hi 👋, I'm Philip Simpson</h1>
 <h3 align="center">A passionate full-stack developer from Las Vegas, NV</
 h3>
@@ -28,7 +30,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
          <h3 align="center">Bustin-Burgers</h3>
             <br />
             <a target="_blank" href="https://bustin-burgers.netlify.app">
-                <img src="burgers-gif.gif" width="100%" alt="Burger App" />
+                <img src="https://imgur.com/rGRtuuH" width="100%" alt="Burger App" />
             </a>
             <br />
             <p align="center">
