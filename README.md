@@ -26,7 +26,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
 <table bordercolor="#66b2b2">
 
    <tr>
-      <td width="50%" valign="top">
+      <td width="49%" valign="top">
          <h3 align="center">Bustin-Burgers</h3>
             <br />
             <a target="_blank" href="https://bustin-burgers.netlify.app">
@@ -47,11 +47,11 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
  </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="49%" valign="top">
       <h3 align="center">PhitDev.com</h3>
       <br />
          <a target="_blank" href="https://phitdev.com">
-            <img src="images/gif4.gif" width="100%" alt="Portfolio" />
+            <img src="https://i.imgur.com/pHTZ5e8.gif" width="100%" alt="Portfolio" />
           </a>
        <br />
          <p align="center">
