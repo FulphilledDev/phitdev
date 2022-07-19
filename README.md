@@ -30,7 +30,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
          <h3 align="center">Bustin-Burgers</h3>
             <br />
             <a target="_blank" href="https://bustin-burgers.netlify.app">
-                <img src="https://imgur.com/rGRtuuH" width="100%" alt="Burger App" />
+                <img src="https://i.imgur.com/UiKQRGr.gif" width="100%" alt="Burger App" />
             </a>
             <br />
             <p align="center">
