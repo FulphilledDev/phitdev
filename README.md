@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Philip Simpson</h1>
 <h3 align="center">A passionate full-stack developer from Las Vegas, NV</
 h3>
-
+<br />
+<br />
+<p align="center">
+Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potential of technology as a tool for economic change, with a background in Math and Entrepreneurship, as well as a deep interest in Web3 and Business Management.
+</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/philip-simpson-03bb1b233/" target="_blank">
@@ -15,10 +19,6 @@ h3>
     </a>
 </p>
 
-
-<p align="center">
-Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potential of technology as a tool for economic change, with a background in Math and Entrepreneurship, as well as a deep interest in Web3 and Business Management.
-</p>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
