@@ -60,13 +60,13 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
             </a>
       </td>
     </tr>
-    <tr>
-       
-   <td width="50%" valign="top">
+    
+   <tr>   
+     <td width="50%" valign="bottom">
       <h3 align="center">PhitDev.com</h3>
       <br />
             <a target="_blank" href="https://phitdev.com">
-                <img src="https://media.giphy.com/media/RbqGZAzj9XUPylpadZ/giphy.gif" width:"100%" class="giphy-embed" alt="Portfolio">
+                <img src="https://media.giphy.com/media/RbqGZAzj9XUPylpadZ/giphy.gif" width:"100%" alt="Portfolio">
             </a>
        <br />
          <p align="center">
@@ -79,23 +79,22 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
           </p>
       </td>
         
-      <td width="50%" valign="top">
+      <td width="50%" valign="bottom">
          <h3 align="center">2021-PGA-Players-Points-API</h3>
             <br />
             <a target="_blank" href="https://pga-player-points-api.herokuapp.com/">
                 <img src="https://i.imgur.com/tQqJh09.gif" width="100%" alt="PGA Player Points API" />
             </a>
             <br />
-            <p align="center">
-
-<a href="https://github.com/phitdev/pga-player-points-2021-api" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
-</a>
-<a href="https://pga-player-points-api.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
-</a>
-    </p>
-   </td>
+           <p align="center">
+            <a href="https://github.com/phitdev/pga-player-points-2021-api" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
+            </a>
+            <a href="https://pga-player-points-api.herokuapp.com/" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
+            </a>
+           </p>
+       </td>
    </tr>
     
 </table>
