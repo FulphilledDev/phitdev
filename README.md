@@ -77,7 +77,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
 </a>
     </p>
-      <p><strong>Node.js, Express & Mongo.DB - </strong> - Pick from the top 200 PGA Tour Players and see their points from the 2021 season!</p>
    </td>
    </tr>
     
