@@ -25,14 +25,12 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
-
-
    <tr>
         <td width="50%" valign="top">
          <h3 align="center">Golf Score Tracker</h3>
             <br />
             <a target="_blank" href="#">
-                <img src="https://giphy.com/embed/aO3QLEZJezcuyShvDd" width="100%" alt="Golf Score Tracker" />
+                <img src="https://media.giphy.com/media/aO3QLEZJezcuyShvDd/giphy.gif" width="100%" alt="Golf Score Tracker" />
             </a>
             <br />
             <p align="center">
@@ -54,14 +52,14 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
             <br />
             <p align="center">
 
-<a href="https://github.com/phitdev/website-bustin-burgers" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
-</a>
-<a href="https://bustin-burgers.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
-</a>
-   </td>
-       </tr>
+            <a href="https://github.com/phitdev/website-bustin-burgers" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
+            </a>
+            <a href="https://bustin-burgers.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
+            </a>
+      </td>
+    </tr>
     <tr>
        
    <td width="50%" valign="top">
@@ -72,12 +70,12 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
             </a>
        <br />
          <p align="center">
-<a href="https://github.com/phitdev/portfolio" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
-</a>
-<a href="http://phitdev.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
-</a>
+            <a href="https://github.com/phitdev/portfolio" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
+            </a>
+            <a href="http://phitdev.com" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
+            </a>
           </p>
       </td>
         
