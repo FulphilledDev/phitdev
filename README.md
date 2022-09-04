@@ -37,13 +37,13 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
             <br />
             <p align="center">
 
-<a href="https://github.com/phitdev/golf-score-tracker" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
-</a>
-   </td>
+            <a href="https://github.com/phitdev/golf-score-tracker" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
+            </a>
+          </td>
    
       <td width="50%" valign="top">
          <h3 align="center">Bustin-Burgers</h3>
@@ -61,6 +61,8 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
 </a>
    </td>
+       </tr>
+    <tr>
        
    <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
@@ -78,8 +80,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
 </a>
           </p>
       </td>
-    </tr>
-    <tr>
+        
       <td width="50%" valign="top">
          <h3 align="center">2021-PGA-Players-Points-API</h3>
             <br />
