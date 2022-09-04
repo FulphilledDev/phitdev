@@ -62,7 +62,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
     </tr>
     
    <tr>   
-     <td width="50%" valign="bottom">
+     <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
       <br />
             <a target="_blank" href="https://phitdev.com">
@@ -79,7 +79,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
           </p>
       </td>
         
-      <td width="50%" valign="bottom">
+      <td width="50%" valign="top">
          <h3 align="center">2021-PGA-Players-Points-API</h3>
             <br />
             <a target="_blank" href="https://pga-player-points-api.herokuapp.com/">
