@@ -97,6 +97,25 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
       </p>
     </td>
   </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">StoryBooks App w/ OAuth</h3>
+      <br />
+        <a target="_blank" href="https://github.com/phitdev/storybooks">
+          <img src="https://media.giphy.com/media/oC4s9cjmFIvZg1CK2t/giphy.gif" width="100%" alt="StoryBooks App w/ OAuth"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/phitdev/storybooks" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/phitdev/storybooks" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
