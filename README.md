@@ -49,8 +49,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
             <a target="_blank" href="https://phitdev.com">
                 <img src="https://media.giphy.com/media/RbqGZAzj9XUPylpadZ/giphy.gif" width:"100%" class="giphy-embed" alt="Portfolio">
             </a>
-       
-          </a>
        <br />
          <p align="center">
 <a href="https://github.com/phitdev/portfolio" target="_blank">
