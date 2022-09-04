@@ -41,14 +41,14 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
 <a href="https://bustin-burgers.netlify.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
 </a>
-    </p>
-      <p><strong>HTML5, CSS3, & Javascript - </strong> - With over 12 different bustin' options, Find a burger that fits your appetite with ease!</p>
    </td>
    <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
       <br />
-         <a target="_blank" href="https://phitdev.com">
-            <img src="https://i.imgur.com/pHTZ5e8.gif" width="100%" alt="Portfolio" />
+         
+            <a href="https://phitdev.com">
+                <img src="https://i.imgur.com/JwYIadI.mp4" title="portfolio" width:"100%" />
+            </a>
           </a>
        <br />
          <p align="center">
@@ -59,8 +59,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
 </a>
           </p>
-            <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.
-            </p>
       </td>
     </tr>
     <tr>
