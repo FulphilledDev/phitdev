@@ -96,8 +96,8 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=gray&style=plastic&logo=express" />
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=gray&style=plastic&logo=git" />
     <img src="https://img.shields.io/static/v1?label=|&message=REACT&color=gray&style=plastic&logo=react" />
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=gray&style=plastic&logo=nodejs" />
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=gray&style=plastic&logo=express" />
+    <img src="https://img.shields.io/static/v1?label=|&message=JSON&color=gray&style=plastic&logo=json" />
+    <img src="https://img.shields.io/static/v1?label=|&message=POSTGRES&color=gray&style=plastic&logo=postgres" />
     <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=gray&style=plastic&logo=mysql" />
 </p>
 
