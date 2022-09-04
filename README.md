@@ -30,7 +30,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
          <h3 align="center">Bustin-Burgers</h3>
             <br />
             <a target="_blank" href="https://bustin-burgers.netlify.app">
-                <img src="https://i.imgur.com/UiKQRGr.gif" width="100%" alt="Burger App" />
+                <img src="https://i.imgur.com/UiKQRGr.gif" width="100%" alt="Burger App"/>
             </a>
             <br />
             <p align="center">
@@ -41,14 +41,15 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
             <a href="https://bustin-burgers.netlify.app/" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
             </a>
-      </td>
-     <td width="50%" valign="top">
-      <h3 align="center">PhitDev.com</h3>
-      <br />
+            </p>
+        </td>
+        <td width="50%" valign="top">
+        <h3 align="center">PhitDev.com</h3>
+            <br />
             <a target="_blank" href="https://phitdev.com">
                 <img src="https://media.giphy.com/media/RbqGZAzj9XUPylpadZ/giphy.gif" width:"100%" alt="Portfolio">
             </a>
-       <br />
+            <br />
          <p align="center">
             <a href="https://github.com/phitdev/portfolio" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
@@ -59,6 +60,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
           </p>
       </td>
     </tr>
+    
     <tr>
       <td width="50%" valign="top">
          <h3 align="center">2021-PGA-Players-Points-API</h3>
@@ -84,7 +86,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
                 <img src="https://media.giphy.com/media/aO3QLEZJezcuyShvDd/giphy.gif" width="100%" alt="Golf Score Tracker" />
             </a>
             <br />
-            <p align="center">
+           <p align="center">
 
             <a href="https://github.com/phitdev/golf-score-tracker" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white" />
@@ -92,6 +94,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
             <a href="#" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
             </a>
+           </p>
           </td>
    </tr>
     
