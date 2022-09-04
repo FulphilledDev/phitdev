@@ -42,13 +42,14 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white" />
 </a>
    </td>
+       
    <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
       <br />
-         
-            <a href="https://phitdev.com">
-                <img src="https://i.imgur.com/JwYIadI.mp4" title="portfolio" width:"100%" />
+            <a target="_blank" href="https://phitdev.com">
+                <img src="https://i.imgur.com/JwYIadI.mp4" width:"100%" alt="Portfolio"/>
             </a>
+       <iframe src="https://giphy.com/embed/RbqGZAzj9XUPylpadZ" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
           </a>
        <br />
          <p align="center">
