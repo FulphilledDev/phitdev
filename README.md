@@ -115,6 +115,22 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   </a>
       </p>
     </td>
+      <td width="50%" valign="top">
+      <h3 align="center">A3 Academy</h3>
+      <br />
+        <a target="_blank" href="https://github.com/phitdev/a3academy-website">
+          <img src="https://media.giphy.com/media/5r2O5GauDRb8p4yUOE/giphy.gif" width="100%" alt="A3 Academy"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/phitdev/a3academy-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/phitdev/a3academy-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
   </tr>
 </table>
 
