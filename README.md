@@ -29,15 +29,15 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
     <td width="50%" valign="top">
       <h3 align="center">A3 Academy</h3>
       <br />
-        <a target="_blank" href="https://github.com/phitdev/a3academy-website">
+        <a target="_blank" href="https://github.com/phitdev/a3academy">
           <img src="https://media.giphy.com/media/5r2O5GauDRb8p4yUOE/giphy.gif" width="100%" alt="A3 Academy"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/phitdev/a3academy-website" target="_blank">
+  <a href="https://github.com/phitdev/a3academy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/phitdev/a3academy-website" target="_blank">
+  <a href="https://github.com/phitdev/a3academy" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
@@ -54,7 +54,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   <a href="https://github.com/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://phitdev.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
@@ -126,7 +126,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   <a href="https://github.com/phitdev/website-bustin-burgers" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://bustin-burgers.netlify.app" target="_blank">
+  <a href="https://bustin-burgers.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
