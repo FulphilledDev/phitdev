@@ -27,22 +27,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">A3 Academy</h3>
-      <br />
-        <a target="_blank" href="https://a3academy.onrender.com">
-          <img src="https://media.giphy.com/media/5r2O5GauDRb8p4yUOE/giphy.gif" width="100%" alt="A3 Academy"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/phitdev/a3academy" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://a3academy.onrender.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
         <br />
       <a target="_blank" href="https://phitdev.com">
@@ -59,25 +43,60 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
   </a>
       </p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">2021 PGA Tour Stats API</h3>
+      <h3 align="center">Better Coaching Services</h3>
       <br />
-        <a target="_blank" href="https://pga-player-points-api.herokuapp.com/">
-          <img src="https://i.imgur.com/tQqJh09.gif" width="100%" alt="PGA Stats API"/>
+        <a target="_blank" href="https://better-coaching-services.vercel.app/">
+          <img src="https://media.giphy.com/media/PAH0n7HzShZXG47OI2/giphy.gif" width="100%" alt="A3 Academy"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/phitdev/pga-player-points-2021-api" target="_blank">
+  <a href="https://github.com/better-coaching-services" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://pga-player-points-api.herokuapp.com/" target="_blank">
+  <a href="https://better-coaching-services.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
     </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">A3 Academy</h3>
+      <br />
+        <a target="_blank" href="https://a3academy.onrender.com">
+          <img src="https://media.giphy.com/media/5r2O5GauDRb8p4yUOE/giphy.gif" width="100%" alt="A3 Academy"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/phitdev/a3academy" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://a3academy.onrender.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">StoryBooks App w/ OAuth</h3>
+      <br />
+        <a target="_blank" href="https://storybooks-to83.onrender.com">
+          <img src="https://media.giphy.com/media/oC4s9cjmFIvZg1CK2t/giphy.gif" width="100%" alt="StoryBooks App w/ OAuth"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/phitdev/storybooks" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://storybooks-to83.onrender.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Golf Score Tracker</h3>
         <br />
@@ -91,25 +110,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://github.com/phitdev/golf-score-tracker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">StoryBooks App w/ OAuth</h3>
-      <br />
-        <a target="_blank" href="https://storybooks-to83.onrender.com">
-          <img src="https://media.giphy.com/media/oC4s9cjmFIvZg1CK2t/giphy.gif" width="100%" alt="StoryBooks App w/ OAuth"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/phitdev/storybooks" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://storybooks-to83.onrender.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
