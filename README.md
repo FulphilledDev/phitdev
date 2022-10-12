@@ -6,7 +6,7 @@ h3>
 <br />
 <br />
 <p align="center">
-Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potential of technology as a tool for economic change, with a background in Math and Entrepreneurship, as well as a deep interest in Web3 and Business Management.
+Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail-oriented with a deep interest in human potential. I look forward to bringing my skills to individuals and companies that embrace an entrepreneur mindset, “get the job done” attitude, and transparent communication.
 </p>
 
 <p align="center">
