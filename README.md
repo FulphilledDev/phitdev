@@ -35,7 +35,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
         <br />
         <p align="center">
           
-  <a href="https://github.com/portfolio" target="_blank">
+  <a href="https://github.com/phitdev/portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://phitdev.com" target="_blank">
@@ -51,7 +51,7 @@ Currently a 100Devs Full-Stack Software Engineer. I am motivated by the potentia
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/better-coaching-services" target="_blank">
+  <a href="https://github.com/phitdev/better-coaching-services" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://better-coaching-services.vercel.app/" target="_blank">
