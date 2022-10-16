@@ -172,3 +172,5 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
         <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=blue&style=plastic&logo=angellist&logo-color=white" />
     </a>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phitdev&" alt="phitdev" /></p>
