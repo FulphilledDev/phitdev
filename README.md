@@ -142,15 +142,15 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=gray&style=plastic&logo=html5" />
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=gray&style=plastic&logo=css3" />
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=gray&style=plastic&logo=javascript" />
-    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=gray&style=plastic&logo=solidity" />
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=gray&style=plastic&logo=git" />
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=gray&style=plastic&logo=amazon" />
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=gray&style=plastic&logo=mongodb" />
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=gray&style=plastic&logo=express" />
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=gray&style=plastic&logo=git" />
     <img src="https://img.shields.io/static/v1?label=|&message=REACT&color=gray&style=plastic&logo=react" />
+    <img src="https://img.shields.io/static/v1?label=|&message=REDUX&color=gray&style=plastic&logo=redux" />
+    <img src="https://img.shields.io/static/v1?label=|&message=AXIOS&color=gray&style=plastic&logo=axios" />
     <img src="https://img.shields.io/static/v1?label=|&message=JSON&color=gray&style=plastic&logo=json" />
-    <img src="https://img.shields.io/static/v1?label=|&message=PHP&color=gray&style=plastic&logo=php" />
-    <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=gray&style=plastic&logo=mysql" />
+    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=gray&style=plastic&logo=solidity" />
 </p>
 
 
