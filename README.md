@@ -1,6 +1,5 @@
 <img src="https://i.imgur.com/rAlWMRj.png" width="100%">
 
-
 <h3 align="center">Hi 👋, I'm a passionate full-stack developer from Las Vegas, NV</
 h3>
 <br />
@@ -24,7 +23,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
@@ -44,6 +42,25 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">User-to-User Contract Tracking</h3>
+      <br />
+        <a target="_blank" href="">
+          <img src="https://media.giphy.com/media/wkoa8Tc3OCgCuna3QP/giphy.gif" width="100%" alt="U2U Contract Tracking"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/phitdev/clientTrackingApp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/phitdev/clientTrackingApp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Better Coaching Services</h3>
       <br />
         <a target="_blank" href="https://better-coaching-services.vercel.app/">
@@ -59,9 +76,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
   </a>
       </p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">A3 Academy</h3>
       <br />
@@ -78,7 +92,10 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
   </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  
+  <tr>
+      <td width="50%" valign="top">
       <h3 align="center">StoryBooks App w/ OAuth</h3>
       <br />
         <a target="_blank" href="https://storybooks-to83.onrender.com">
@@ -94,9 +111,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
   </a>
       </p>
     </td>
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Golf Score Tracker</h3>
         <br />
@@ -110,23 +124,6 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://github.com/phitdev/golf-score-tracker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-      <td width="50%" valign="top">
-      <h3 align="center">Bustin' Burgers</h3>
-        <br />
-        <a target="_blank" href="https://bustin-burgers.netlify.app">
-            <img src="https://i.imgur.com/UiKQRGr.gif" width="100%" alt="Bustin' Burgers"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/phitdev/website-bustin-burgers" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://bustin-burgers.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
