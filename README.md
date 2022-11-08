@@ -23,6 +23,25 @@ Currently a 100Devs Full-Stack Software Engineer. I am a team-player, and detail
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+    <tr>
+        <td width="50%" valign="top">
+            <h3 align="center">A3 Ecommerce</h3>
+            <br />
+            <a target="_blank" href="#!">
+            <img src="https://media.giphy.com/media/PHIdwcuA89fhRWcBQ5/giphy.gif" width="100%"  alt="a3 ecommerce"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/phitdev/a3-ecommerce-test2" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=black&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#!" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=white&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">PhitDev.com</h3>
